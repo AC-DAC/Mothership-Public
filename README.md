@@ -113,3 +113,9 @@ Offsite storage not implemented — redundancy provided by server-level hourly b
 - Apache / MariaDB
 - UpdraftPlus
 - Linux cron
+
+---
+
+## Screenshot
+
+![Mothership Dashboard](assets/mothership-dashboard.jpg)
