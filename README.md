@@ -23,7 +23,7 @@ Mothership is a self-hosted, centralised management dashboard for 13 WordPress c
  
 ```
 ┌─────────────────────────────────────┐
-│         Mothership Dashboard         │
+│         Mothership Dashboard        │
 │         [internal subdomain]        │
 │                                     │
 │  MainWP Dashboard Plugin            │
