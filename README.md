@@ -118,4 +118,4 @@ Offsite storage not implemented — redundancy provided by server-level hourly b
 
 ## Screenshot
 
-![Mothership Dashboard](assets/mothership-dashboard.jpg)
+![Mothership Dashboard](assets/screenshots/mothership-dashboard.jpg)
