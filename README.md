@@ -1,4 +1,4 @@
-# Mothership — Centralised WordPress Management Infrastructure
+# Mothership — Centralised WordPress Management Infrastructure (Public)
  
 ## Overview
  
