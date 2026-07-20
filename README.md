@@ -102,6 +102,9 @@ Offsite storage not implemented — redundancy provided by server-level hourly b
 - **Monitoring:** Proactive uptime alerting replaces reactive client-reported downtime discovery.
 - **Security posture:** Per-site cryptographic identity (OpenSSL key pairs + Unique Security IDs) rather than shared credential access.
 - **Infrastructure decisions documented:** Each architectural choice recorded with rationale and rejected alternatives.
+- **Incident response — wp2shell RCE (July 2026):** WordPress Core critical pre-authentication RCE (CVE-2026-63030 + CVE-2026-60137) disclosed July 17, 2026. Affected versions 6.9.0–6.9.4 and 7.0.0–7.0.1; fixed in 7.0.2.
+- **Automated remediation:** Mothership's scheduled sync applied WordPress 7.0.2 across all 13 managed sites within the update window — no manual intervention required.
+- **Post-patch verification:** All sites confirmed on 7.0.2 following the update cycle.
  
 ---
  
