@@ -2,7 +2,7 @@
  
 ## Overview
  
-Mothership is a self-hosted, centralised management dashboard for over 15 WordPress client sites, built on [MainWP](https://mainwp.com/) and deployed to a dedicated subdomain on shared hosting. The project replaces a manual, site-by-site update workflow with a single control plane covering updates, uptime monitoring, and security visibility across all managed sites.
+Mothership is a self-hosted, centralised management dashboard for over 10 WordPress client sites, built on [MainWP](https://mainwp.com/) and deployed to a dedicated subdomain on shared hosting. The project replaces a manual, site-by-site update workflow with a single control plane covering updates, uptime monitoring, and security visibility across all managed sites.
  
 ---
  
@@ -67,7 +67,7 @@ The Mothership subdomain serves no public content. A maintenance mode plugin int
  
 ## Operational Scope
  
-- Over 15 client WordPress sites connected
+- Over 10 client WordPress sites connected
 - Bulk plugin, theme, and core update management
 - Per-site uptime monitoring with email alerting (HTTP 200 checks)
 - Security vulnerability visibility across all sites
