@@ -105,6 +105,8 @@ Offsite storage not implemented — redundancy provided by server-level hourly b
 - **Incident response — wp2shell RCE (July 2026):** WordPress Core critical pre-authentication RCE (CVE-2026-63030 + CVE-2026-60137) disclosed July 17, 2026. Affected versions 6.9.0–6.9.4 and 7.0.0–7.0.1; fixed in 7.0.2.
 - **Automated remediation:** Mothership's scheduled sync applied WordPress 7.0.2 across all 13 managed sites within the update window — no manual intervention required.
 - **Post-patch verification:** All sites confirmed on 7.0.2 following the update cycle.
+
+![wp2shell automated remediation — 11 sites patched to WordPress 7.0.2 on 18 Jul 2026](assets/screenshots/wp2shell-rce-july-2026-automated-remediation-snippet.jpg)
  
 ---
  
